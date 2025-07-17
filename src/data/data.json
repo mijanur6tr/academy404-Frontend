@@ -1,0 +1,112 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Best Frontend Web Development Course",
+      "slug": "frontend-web-development",
+      "description": "Learn HTML, CSS, and JavaScript to build modern UIs.",
+      "price": 129.99,
+      "instructor": "Alice Smith",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Backend Development with Node.js",
+      "slug": "backend-development-nodejs",
+      "description": "Master APIs and servers using Node.js and Express.",
+      "price": 149.99,
+      "instructor": "Bob Johnson",
+      "isFeatured": false
+    },
+    {
+      "id": 3,
+      "title": "Full Stack MERN Bootcamp For Free",
+      "slug": "fullstack-mern-bootcamp",
+      "description": "Build complete apps with MongoDB, Express, React, and Node.",
+      "price": 179.99,
+      "instructor": "Carol Lee",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Data Structures & Algorithms",
+      "slug": "data-structures-algorithms",
+      "description": "Crack coding interviews with strong problem-solving skills.",
+      "price": 119.99,
+      "instructor": "Daniel Kim",
+      "isFeatured": true
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning with Python",
+      "slug": "machine-learning-python",
+      "description": "Learn ML concepts and build models using Python libraries.",
+      "price": 199.99,
+      "instructor": "Eva Thompson",
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "title": "DevOps Essentials",
+      "slug": "devops-essentials",
+      "description": "Get hands-on with CI/CD, Docker, and Kubernetes.",
+      "price": 139.99,
+      "instructor": "Frank Adams",
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "title": "Next.js and Server-Side Rendering",
+      "slug": "nextjs-server-side-rendering",
+      "description": "Build fast, SEO-friendly React apps with Next.js.",
+      "price": 149.99,
+      "instructor": "Grace Park",
+      "isFeatured": true
+    },
+    {
+      "id": 8,
+      "title": "TypeScript Beginners To Master Course",
+      "slug": "typescript-for-beginners",
+      "description": "Add strong typing to JavaScript and improve code quality.",
+      "price": 89.99,
+      "instructor": "Henry Ford",
+      "isFeatured": true
+    },
+    {
+      "id": 9,
+      "title": "Python for Data Analysis",
+      "slug": "python-data-analysis",
+      "description": "Use Pandas, NumPy, and Matplotlib to analyze datasets.",
+      "price": 109.99,
+      "instructor": "Isabella Gray",
+      "isFeatured": false
+    },
+    {
+      "id": 10,
+      "title": "Introduction to Cybersecurity",
+      "slug": "introduction-cybersecurity",
+      "description": "Understand security fundamentals and threat prevention.",
+      "price": 129.99,
+      "instructor": "Jack Reacher",
+      "isFeatured": false
+    },
+    {
+      "id": 11,
+      "title": "Database Management with SQL",
+      "slug": "database-management-sql",
+      "description": "Design and query databases using SQL and PostgreSQL.",
+      "price": 99.99,
+      "instructor": "Kelly Huang",
+      "isFeatured": false
+    },
+    {
+      "id": 12,
+      "title": "API Development with FastAPI",
+      "slug": "api-development-fastapi",
+      "description": "Create blazing fast APIs with modern Python frameworks.",
+      "price": 139.99,
+      "instructor": "Leo Martin",
+      "isFeatured": false
+    }
+  ]
+}
